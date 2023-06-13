@@ -1,0 +1,14 @@
+{
+  "name": "internet-herokuapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.14.0"
+  }
+}
